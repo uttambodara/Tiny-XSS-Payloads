@@ -12,6 +12,16 @@ The DEMO available here: <https://tiny-xss-payloads.netlify.app/>
 
 🛡️ Efficient Testing: Quick checks for XSS vulnerabilities.
 
+🏗️ Use Cases
+-----------------
+🔍 Bug Hunting: Identify weak points in websites.
+
+🧪 Penetration Testing: Test how applications handle untrusted input.
+
+🛠️ Security Auditing: Assess web application resilience.
+
+
+
 ## Current Payloads
 
 ```html
@@ -129,6 +139,13 @@ Deprecated:
 <!-- If inline styles are allowed, Safari only -->
 <style/onload=write(URL)>
 ```
+
+
+⚠️ Disclaimer
+----
+These payloads are for educational and ethical testing purposes only. Unauthorized use is illegal and unethical. Always have proper authorization before testing! ✅
+
+
 Information
 ------------------
 
