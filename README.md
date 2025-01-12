@@ -1,7 +1,7 @@
 # Tiny-XSS-Payloads
 A collection of short XSS payloads that can be used in different contexts.
 
-The DEMO available here: <https://tinyxss.terjanq.me>
+The DEMO available here: <https://tiny-xss-payloads.netlify.app/>
 
 
 ## Current Payloads
