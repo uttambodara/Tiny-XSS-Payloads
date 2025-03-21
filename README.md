@@ -1,9 +1,9 @@
+
 # Tiny-XSS-Payloads
 
 This is a curated set of small but powerful Cross-Site Scripting (XSS) payloads 💥 designed to exploit vulnerabilities in different web application contexts. These payloads can be used to test and identify weak points in web security 🔐. A collection of short XSS payloads that can be used in different contexts.
 
 The DEMO available here: <https://tiny-xss-payloads.netlify.app/>
-
 📚 Why Tiny Payloads?
 ------------------------------
 ⚡ Lightweight: Easily bypass filters due to their minimal size.
